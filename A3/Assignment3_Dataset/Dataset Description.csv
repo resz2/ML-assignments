@@ -1,0 +1,41 @@
+Column Code,Distict Values,Column,Type
+AAGE,91, age,numerical
+ACLSWKR,9, class of worker,categorical
+ADTIND,52, industry code,categorical
+ADTOCC,47, occupation code,categorical
+AHGA,17, education,categorical
+AHRSPAY,1240, wage per hour,numerical
+AHSCOL,3, enrolled in edu inst last wk,categorical
+AMARITL,7, marital status,categorical
+AMJIND,24, major industry code,categorical
+AMJOCC,15, major occupation code,categorical
+ARACE,5, mace,categorical
+AREORGN,10, hispanic Origin,categorical
+ASEX,2, sex,categorical
+AUNMEM,3, member of a labor union,categorical
+AUNTYPE,6, reason for unemployment,categorical
+AWKSTAT,8, full or part time employment stat,categorical
+CAPGAIN,132, capital gains,numerical
+CAPLOSS,113, capital losses,numerical
+DIVVAL,1478, divdends from stocks,numerical
+FILESTAT,6, tax filer status,categorical
+GRINREG,6, region of previous residence,categorical
+GRINST,51, state of previous residence,categorical
+HHDFMX,38, detailed household and family stat,categorical
+HHDREL,8, detailed household summary in household,categorical
+MIGMTR1,10, migration code-change in msa,categorical
+MIGMTR3,9, migration code-change in reg,categorical
+MIGMTR4,10, migration code-move within reg,categorical
+MIGSAME,3, live in this house 1 year ago,categorical
+MIGSUN,4, migration prev res in sunbelt,categorical
+NOEMP,7, num persons worked for employer,categorical
+PARENT,5, family members under 18,categorical
+PEFNTVTY,43, country of birth father,categorical
+PEMNTVTY,43, country of birth mother,categorical
+PENATVTY,43, country of birth self,categorical
+PRCITSHP,5, citizenship,categorical
+SEOTR,3, own business or self employed,categorical
+VETQVA,3, fill inc questionnaire for veteran's admin,categorical
+VETYN,3, veterans benefits,categorical
+WKSWORK,53, weeks worked in year,numerical
+YEAR,2,data collected in the year,categorical
